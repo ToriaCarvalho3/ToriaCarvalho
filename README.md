@@ -2,7 +2,7 @@
 
 Meu nome é Maria Vitoria
 
-- Eu estou no Alura
+- Eu estou no [Alura](https://alura.com.br)
 - - Estou me desenvolvendo na linguagem JavaScript
   - - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
